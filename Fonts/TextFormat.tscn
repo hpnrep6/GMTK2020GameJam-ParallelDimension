@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Fonts/font2.tres" type="DynamicFont" id=1]
+
+[node name="RichTextLabel5" type="RichTextLabel"]
+margin_left = 534.849
+margin_top = 55.8616
+margin_right = 772.849
+margin_bottom = 135.862
+custom_fonts/normal_font = ExtResource( 1 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
